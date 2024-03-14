@@ -1,5 +1,5 @@
 ## Microsoft Website Clone 
-Live Demo ---------- https://vaibhav9579.github.io/microsoft/
+Live Demo ----------  https://vaibhav9579.github.io/Microsoft-Clonning/
 
 
 This project is a clone of the Microsoft website ([https://www.microsoft.com/](https://www.microsoft.com/)). It focuses on replicating the visual aspects of the website, including layout, design elements, and potentially some static content.
